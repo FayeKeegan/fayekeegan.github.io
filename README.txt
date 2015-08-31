@@ -1,6 +1,10 @@
 Personal website
 - includes personal description, resume, and links to some of my work.
 
+[Live link][link]
+
+[link]: www.fayekeegan.com
+
 
 Spectral by HTML5 UP
 html5up.net | @n33co
